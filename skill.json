@@ -1,0 +1,20 @@
+{
+  "name": "genpark-raft-joint-consensus-membership-reconfiguration-skill",
+  "version": "1.0.0",
+  "description": "Raft joint consensus dynamic membership transition protocol avoiding split-brain configurations",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "raft",
+    "joint-consensus",
+    "membership-change",
+    "distributed-systems",
+    "split-brain-prevention",
+    "python-standard-library",
+    "agent-skills",
+    "consensus",
+    "cluster-management",
+    "state-machine"
+  ]
+}
