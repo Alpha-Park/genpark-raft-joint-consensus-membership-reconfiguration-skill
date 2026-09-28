@@ -1,0 +1,6 @@
+name: genpark-raft-joint-consensus-membership-reconfiguration-skill
+version: 1.0.0
+description: Raft joint consensus dynamic membership transition protocol avoiding split-brain configurations
+command: python
+args:
+  - mcp_server.py
